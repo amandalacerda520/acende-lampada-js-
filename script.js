@@ -5,7 +5,7 @@ lampada.addEventListener("mouseout",apagar);
 
 function acender(){
     lampada.src = "on.png";
-    document.body.style.background = "#3626ccff"
+    document.body.style.background = "#5ad413ff"
 }
 function apagar(){
     lampada.src = "off.png";
